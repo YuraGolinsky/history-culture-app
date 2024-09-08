@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+Этот сайт создан в основе React с использованием JavaScript, Redux, и TypeScript, посвященных истории, культуре и мифам. Он предлагает использовать основные материалы, биографии виденных постатей, а также описания культурных и мистических явлений, помогает понять информацию и выявить новые аспекты световой истории.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+English translation
 
-### `npm start`
+This site is built on React with JavaScript, Redux, and TypeScript, dedicated to history, culture, and myth. It offers basic materials, biographies of seen articles, and descriptions of cultural and mystical phenomena, helps to understand information and reveal new aspects of light history.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![image](https://github.com/user-attachments/assets/9ad5634b-3c7b-46ca-84ae-36e689e8fb16)
 
-### `npm test`
+![image](https://github.com/user-attachments/assets/283c7575-7bb1-40dd-b7eb-08b52c2d9e76)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/user-attachments/assets/2c107364-54d3-4ce2-9060-c3acdc3027f9)
 
-### `npm run build`
+![image](https://github.com/user-attachments/assets/83aabcb7-b920-470f-bc7c-f1ffb7cba925)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://github.com/user-attachments/assets/2eecb05e-5920-4e49-a684-35980a7d792e)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/user-attachments/assets/dcc0bf8b-80be-4f39-83e6-4e01000424ed)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/user-attachments/assets/dd279ded-49fa-41be-a53c-ca4ad1b42b04)
 
-### `npm run eject`
+![image](https://github.com/user-attachments/assets/e81bcbe8-8970-43dc-9b3d-b550cd9aef51)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![image](https://github.com/user-attachments/assets/8edf7802-58ce-4c0b-b6a9-2f222b82a674)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/user-attachments/assets/05f3e5d6-4909-4c1e-8bc4-f614718ec636)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/user-attachments/assets/b72f6be6-9b07-4536-91d5-b8c0b6d14333)
