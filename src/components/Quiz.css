@@ -1,0 +1,102 @@
+/* src/components/Quiz.css */
+.quiz-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quiz-content {
+    background: #fff;
+    border-radius: 8px;
+    padding: 15px;
+    width: 80%;
+    max-width: 400px;
+    position: relative;
+}
+
+.close-quiz {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: #e74c3c;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+h2 {
+    margin: 0 0 15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.quiz-question {
+    margin-bottom: 10px;
+}
+
+.quiz-option {
+    display: block;
+    margin: 4px 0;
+}
+
+input[type="radio"] {
+    margin-right: 8px;
+}
+
+.submit-quiz, .submit-feedback {
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    padding: 8px 12px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.submit-quiz {
+    background: #3498db;
+    margin-bottom: 8px;
+}
+
+.submit-quiz:hover {
+    background: #2980b9;
+}
+
+.submit-feedback {
+    background: #27ae60;
+}
+
+.submit-feedback:hover {
+    background: #2ecc71;
+}
+
+.feedback-textarea {
+    width: 100%;
+    height: 30px; /* Уменьшена высота поля отзыва в два раза */
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: 4px; /* Уменьшены внутренние отступы */
+    box-sizing: border-box;
+    margin-bottom: 6px;
+}
+
+.feedback-thankyou {
+    color: #27ae60;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}

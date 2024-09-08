@@ -1,0 +1,157 @@
+/* Epochs.css */
+.epochs {
+    font-family: 'Georgia', serif; /* Газетный стиль */
+    background-color: #f4f4f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .home-header {
+    background-color: #004d40;
+    color: white;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .home-nav-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .home-nav-menu li {
+    margin-right: 30px;
+  }
+  
+  .home-nav-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .home-nav-menu a:hover {
+    color: #e0f7fa;
+    transform: scale(1.1);
+  }
+  
+  .epochs-main {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .epochs-list {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .epoch-item {
+    margin-bottom: 40px;
+    display: flex;
+    align-items: flex-start;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .epoch-image {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 8px;
+  }
+  
+  .epoch-content {
+    max-width: 800px;
+  }
+  
+  .epoch-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .epoch-description {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .home-footer {
+    background-color: #004d40;
+    color: white;
+    padding: 20px;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer-nav li {
+    margin: 0 15px;
+  }
+  
+  .footer-nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-nav a:hover {
+    color: #e0f7fa;
+  }
+  .search-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+  }
+  
+  .search-input {
+    padding: 10px;
+    width: 60%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .search-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .search-button:hover {
+    background-color: #0056b3;
+  }
+  
